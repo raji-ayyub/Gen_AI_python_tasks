@@ -1,1 +1,5 @@
-wire in
+read , False
+code , True
+skipping , False
+check fix , True
+push to github , False
